@@ -1,0 +1,3 @@
+[submodule "git-jenkins-nginx"]
+	path = git-jenkins-nginx
+	url = https://github.com/nsatwik/git-jenkins-nginx.git
